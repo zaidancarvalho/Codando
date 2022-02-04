@@ -1,6 +1,9 @@
 # Codando
-Códigos simples para demonstrar meus conhecimentos
-public class Estudando {
+/*Códigos simples para demonstrar meus conhecimentos*/
+
+
+
+public class Application {
 	public static void main(String[] args) {
 		
 		double x = 3.0;
